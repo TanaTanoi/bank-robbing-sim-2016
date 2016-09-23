@@ -1,0 +1,5 @@
+0n
+maxWeight
+numberOfItems
+count weight value
+count weight value
