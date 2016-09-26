@@ -1,5 +1,5 @@
 0n
 maxWeight
-numberOfItems
+numberOfItems numberOfElements
 count weight value
 count weight value
